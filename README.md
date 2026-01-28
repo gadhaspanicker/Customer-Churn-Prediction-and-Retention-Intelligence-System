@@ -51,4 +51,7 @@ customer-churn-prediction-retention-intelligence/
 └── data/
     └── customer_churn_data.csv
 ```
+## 📸 Screenshots
+![Input Form](input.png)
+![Prediction Result](prediction_result.png)
 
