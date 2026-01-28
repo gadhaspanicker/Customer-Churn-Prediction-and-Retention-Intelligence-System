@@ -47,5 +47,10 @@ customer-churn-prediction-retention-intelligence/
 │   └── churn_model.pkl
 │
 └── data/
+    └── customer_churn_data.csv
+
+│   └── churn_model.pkl
+│
+└── data/
     └── customer churn data.csv
 
