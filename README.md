@@ -34,6 +34,8 @@ The system uses a **machine learning model (XGBoost)** to predict churn probabil
 ---
 
 ## 📁 Project Structure
+
+```
 customer-churn-prediction-retention-intelligence/
 │
 ├── app.py
@@ -48,4 +50,5 @@ customer-churn-prediction-retention-intelligence/
 │
 └── data/
     └── customer_churn_data.csv
+```
 
